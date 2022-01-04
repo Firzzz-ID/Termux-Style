@@ -1,7 +1,7 @@
-#Mau Recode ? Anak Dajal
-#Yang Recode Anak Dajal Ya Aminn
-#Script By FIRZZZ ID
-#Subrek Firzz Tutorial
+#Mau Recode ? 
+#Yang Recode Tapi Gk Subrek Anak Dajal Ya Aminn
+#Script By FIRZZZ 
+#Subrek FIRZZZ ID
 import os,sys,time
 
 os.system("clear")
